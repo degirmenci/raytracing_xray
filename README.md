@@ -17,3 +17,6 @@ Here is a short description about the files included:
   - smvm_cilk.cpp: SMVM with Cilk.
   - smvm_omp.cpp: SMVM with OpenMP.
   - smvm_omp.cpp SMVM with OpenMP, tweaked version.
+
+If you would like to read more about this, please see the document:
+https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzb3lzYWxkfGd4OjFmMzdhNGU4NmMyZDlhMzY
